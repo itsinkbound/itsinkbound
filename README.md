@@ -43,7 +43,7 @@ Final-year CS undergrad at VIT Chennai (CGPA 9.60, top 5% of the department), bu
 | **CHASHNIt** — CNN-Transformer skin lesion classifier | *Computers in Biology and Medicine* (IF 6.3) | [repo →](YOUR_REPO_LINK) |
 | **Lung cancer CT classification** | ICRTAC 2024 | 🏆 Best Paper |
 | **Improved Layered NEHA** — hierarchical lightweight IoT encryption | *IEEE Internet of Things Journal* (IF 8.9) | [repo →](YOUR_REPO_LINK) |
-| **SpectroNet-LSTM** — cardiac anomaly detection via spectrogram analysis | ICCCSP'25 | [repo →](YOUR_REPO_LINK) |
+| **SpectroNet-LSTM** — cardiac anomaly detection via spectrogram analysis | ICCCSP'25 | [repo →](https://github.com/itsinkbound/spectronet-lstm) |
 | **LARW / CLASP** — latency-adaptive replay-window authentication for IoT/robot swarms | *Computers & Security* (Elsevier) — in progress | Scyther formal verification + Monte Carlo simulation |
 | **SHERA** — SHAP-enhanced resource allocation for VM scheduling | *IEEE Access* | with A. S. Slathia et al. |
 | DDoS threat prediction with interpretable ML (RF + SMOTE + SHAP/LIME) | *Real-World Applications of Machine Learning*, Springer | book chapter |
@@ -61,8 +61,8 @@ Final-year CS undergrad at VIT Chennai (CGPA 9.60, top 5% of the department), bu
 <tr>
 <td width="50%">
 
-**[VARUNA](https://github.com/Krishna-Kilrofkansa/VARUNA)**
-Real-time hazard alerting & reporting platform for nautical anomalies. TypeScript.
+**[SPECTRONET-lstm](https://github.com/itsinkbound/spectronet-lstm)**
+Cardiac anomaly detection via spectrogram analysis
 
 </td>
 <td width="50%">
