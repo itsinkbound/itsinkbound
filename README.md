@@ -14,11 +14,11 @@
 
 ## About
 
-I'm a final-year computer science student at VIT Chennai (CGPA 9.60, top 5% of the department), working toward ML engineering roles. Most of my work sits in medical imaging and applied deep learning, with a second research thread in lightweight security for IoT and robot-swarm networks.
+I'm a final-year computer science student at VIT Chennai (CGPA 9.63, top 1% of the department), working toward ML engineering roles. Most of my work sits in medical imaging and applied deep learning, with a second research thread in lightweight security for IoT and robot-swarm networks.
 
-Right now I'm finishing **LARW/CLASP**, a latency-adaptive authentication scheme for IoT and robot swarms, written up for *Computers & Security* (Elsevier). I'm also building a dual-backbone lung cancer CT classifier (ResNet50 and EfficientNetB3), taking it from scaffold to EC2 in phases.
+Right now I'm finishing **LARW/CLASP**, a latency-adaptive authentication scheme for IoT and robot swarms, written up for *Computers & Security* (Elsevier). 
 
-Outside the lab I chair the ACM Student Chapter at VIT Chennai, and I've interned as a Network Engineer at Power Grid Corporation of India.
+Outside the lab I chaired the ACM Student Chapter at VIT Chennai, and I've interned as a Network Engineer at Power Grid Corporation of India.
 
 <img src="assets/divider.svg" alt="" width="100%">
 
