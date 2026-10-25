@@ -1,104 +1,113 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Krishna+Priyadarshan+Behara;ML+Engineer+%7C+Medical+Imaging+%2B+IoT+Security;Final-Year+CSE%2C+VIT+Chennai" alt="typing banner" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/krishna-hero-static.svg">
+  <img src="assets/krishna-hero.svg" alt="Krishna Priyadarshan Behara, ML engineer working on medical imaging and IoT security" width="100%">
+</picture>
 
-<a href="https://www.linkedin.com/in/krishna-priyadarshan-behara-54b487289"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://orcid.org/0009-0000-1944-0514"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="YOUR_SCHOLAR_LINK"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=itsinkbound&color=0e76a8&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
-
-</div>
-
-<br>
-
-## `~/` whoami
-
-```
-$ cat about.txt
-```
-
-Final-year CS undergrad at VIT Chennai (CGPA 9.60, top 5% of the department), building toward ML engineering roles — mainly medical imaging and applied deep learning, with a research track in lightweight IoT security on the side.
-
-- 🔬 Currently finishing **LARW/CLASP** — a latency-adaptive authentication scheme for IoT/robot-swarm networks, targeting *Computers & Security* (Elsevier)
-- 🩻 Building a dual-backbone (ResNet50 + EfficientNetB3) lung cancer CT classifier, phased scaffold-to-EC2 deployment
-- 📝 Published in *Computers in Biology and Medicine* (IF 6.3), *IEEE Access* (IF 3.4), and *IEEE Internet of Things Journal* (IF 8.9) — plus a Best Paper award at ICRTAC 2024
-- ⚡ Chairperson, ACM Student Chapter · ex-Network Engineer intern @ Power Grid Corporation of India
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,aws,docker,linux,git,latex,go,mysql&perline=12" />
+<a href="https://www.linkedin.com/in/krishna-priyadarshan-behara-54b487289"><img src="https://img.shields.io/badge/LinkedIn-451126?style=for-the-badge&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn"></a>
+<a href="https://orcid.org/0009-0000-1944-0514"><img src="https://img.shields.io/badge/ORCID-701A3D?style=for-the-badge&logo=orcid&logoColor=F8F0F3" alt="ORCID"></a>
 
 </div>
 
-<br>
+<img src="assets/divider.svg" alt="" width="100%">
 
-## 🧪 Research & Publications
+## About
+
+I'm a final-year computer science student at VIT Chennai (CGPA 9.60, top 5% of the department), working toward ML engineering roles. Most of my work sits in medical imaging and applied deep learning, with a second research thread in lightweight security for IoT and robot-swarm networks.
+
+Right now I'm finishing **LARW/CLASP**, a latency-adaptive authentication scheme for IoT and robot swarms, written up for *Computers & Security* (Elsevier). I'm also building a dual-backbone lung cancer CT classifier (ResNet50 and EfficientNetB3), taking it from scaffold to EC2 in phases.
+
+Outside the lab I chair the ACM Student Chapter at VIT Chennai, and I've interned as a Network Engineer at Power Grid Corporation of India.
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## Recognition
+
+- **Best Paper**, ICRTAC 2024, for lung cancer CT classification
+- Published in *Computers in Biology and Medicine* (IF 6.3), *IEEE Access* (IF 3.4) and *IEEE Internet of Things Journal* (IF 8.9)
+- **Chairperson**, ACM Student Chapter, VIT Chennai
+- Patent application no. 202541043541, fog and dew-point prediction for aviation and flood early warning
+
+## Research
 
 | Work | Venue | Notes |
 |---|---|---|
-| **CHASHNIt** — CNN-Transformer skin lesion classifier | *Computers in Biology and Medicine* (IF 6.3) | [repo →](YOUR_REPO_LINK) |
-| **Lung cancer CT classification** | ICRTAC 2024 | 🏆 Best Paper |
-| **Improved Layered NEHA** — hierarchical lightweight IoT encryption | *IEEE Internet of Things Journal* (IF 8.9) | [repo →](YOUR_REPO_LINK) |
-| **SpectroNet-LSTM** — cardiac anomaly detection via spectrogram analysis | ICCCSP'25 | [repo →](https://github.com/itsinkbound/spectronet-lstm) |
-| **LARW / CLASP** — latency-adaptive replay-window authentication for IoT/robot swarms | *Computers & Security* (Elsevier) — in progress | Scyther formal verification + Monte Carlo simulation |
-| **SHERA** — SHAP-enhanced resource allocation for VM scheduling | *IEEE Access* | with A. S. Slathia et al. |
-| DDoS threat prediction with interpretable ML (RF + SMOTE + SHAP/LIME) | *Real-World Applications of Machine Learning*, Springer | book chapter |
-| Quantifying SIMD acceleration in JSON parsing | solo-authored benchmark | [repo →](https://github.com/itsinkbound/Benchmarking-experiment-cpp_parser-vs-simdjson_parser) |
+| **CHASHNIt**, a CNN-Transformer skin lesion classifier | *Computers in Biology and Medicine* | Repository to be published |
+| **Lung cancer CT classification** | ICRTAC 2024 | Best Paper |
+| **Improved Layered NEHA**, hierarchical lightweight IoT encryption | *IEEE Internet of Things Journal* | |
+| **SpectroNet-LSTM**, cardiac anomaly detection from spectrograms | ICCCSP '25 | [Code](https://github.com/itsinkbound/spectronet-lstm) |
+| **LARW / CLASP**, latency-adaptive replay-window authentication | *Computers & Security*, in progress | Scyther formal verification and Monte Carlo simulation |
+| **SHERA**, SHAP-enhanced resource allocation for VM scheduling | *IEEE Access* | With A. S. Slathia et al. |
+| DDoS threat prediction with interpretable ML (RF, SMOTE, SHAP, LIME) | *Real-World Applications of Machine Learning*, Springer | Book chapter |
+| Quantifying SIMD acceleration in JSON parsing | Solo-authored benchmark | [Code](https://github.com/itsinkbound/Benchmarking-experiment-cpp_parser-vs-simdjson_parser) |
 
-**Patents:** Lumi Dissect light-pipe surgical device · fog/dew-point prediction for aviation & flood early-warning (App. No. 202541043541) · wearable multi-modal energy-harvesting device (piezoelectric + solar + thermoelectric) · Raspberry Pi–based smart agricultural monitoring dome
+Other patents: the Lumi Dissect light-pipe surgical device, a wearable multi-modal energy-harvesting device (piezoelectric, solar, thermoelectric), and a Raspberry Pi smart agricultural monitoring dome. Full list with DOIs on [ORCID](https://orcid.org/0009-0000-1944-0514).
 
-<sub>Full list with DOIs on <a href="https://orcid.org/0009-0000-1944-0514">ORCID</a>.</sub>
-
-<br>
-
-## 🚀 Featured Projects
+## Selected projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[SPECTRONET-lstm](https://github.com/itsinkbound/spectronet-lstm)**
-Cardiac anomaly detection via spectrogram analysis
+**[SpectroNet-LSTM](https://github.com/itsinkbound/spectronet-lstm)**<br>
+Cardiac anomaly detection through spectrogram analysis.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**CHASHNIt**
-CNN-Transformer hybrid for skin lesion classification. *(push pending — see below)*
+**CHASHNIt**<br>
+A CNN-Transformer hybrid for skin lesion classification. Repository coming.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Lung Cancer CT Classifier**
-Dual-backbone ResNet50 + EfficientNetB3, staged toward EC2 deployment.
+**Lung cancer CT classifier**<br>
+ResNet50 and EfficientNetB3 backbones, staged toward EC2 deployment.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[SIMD JSON Benchmark](https://github.com/itsinkbound/Benchmarking-experiment-cpp_parser-vs-simdjson_parser)**
-Quantifying SIMD acceleration: standard C++ parser vs. simdjson.
+**[SIMD JSON benchmark](https://github.com/itsinkbound/Benchmarking-experiment-cpp_parser-vs-simdjson_parser)**<br>
+A standard C++ parser measured against simdjson.
 
 </td>
 </tr>
 </table>
 
-<br>
+## Skills
+
+| | |
+|---|---|
+| **Languages** | Python, C++, Java, Go, SQL (MySQL) |
+| **Machine learning** | PyTorch, TensorFlow, CNN-Transformer hybrids, SHAP, LIME, SMOTE, Random Forest |
+| **Security research** | Scyther formal verification, Monte Carlo simulation |
+| **Infrastructure** | AWS (EC2), Docker, Linux, Git |
+| **Writing** | LaTeX |
+
+## Contributions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsinkbound&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=itsinkbound&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://ghchart.rshah.org/701A3D/itsinkbound" alt="GitHub contribution chart for itsinkbound" width="100%">
+
+<sub>Live public contributions, drawn from GitHub.</sub>
 
 </div>
 
-<br>
+## Statistics
 
 <div align="center">
-<sub>Building ML systems for medical imaging, one paper at a time.</sub>
+
+<img src="https://github-readme-stats.vercel.app/api?username=itsinkbound&show_icons=true&hide_border=true&bg_color=190B12&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&ring_color=C77B9B" alt="GitHub stats" width="48%">
+<img src="https://streak-stats.demolab.com/?user=itsinkbound&hide_border=true&background=190B12&ring=C77B9B&fire=E5B5C7&currStreakNum=F8F0F3&sideNums=F8F0F3&currStreakLabel=E5B5C7&sideLabels=C77B9B&dates=C77B9B" alt="GitHub streak" width="48%">
+
 </div>
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/krishna-priyadarshan-behara-54b487289) · [ORCID](https://orcid.org/0009-0000-1944-0514) · [GitHub](https://github.com/itsinkbound)
+
+<img src="assets/footer.svg" alt="Building ML systems for medical imaging, one paper at a time." width="100%">
